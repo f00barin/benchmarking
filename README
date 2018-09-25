@@ -1,0 +1,13 @@
+# Benchmarking GPUS
+
+Quick benchmarking script. Works on pytorch GPUS. Use pip to install all the
+requirements in the requirement.txt 
+
+command: ```bash train.sh```
+
+
+* Works on multiple GPUS
+* Pytorch based. 
+
+simplified fork of: https://github.com/jimgoo/spark-multi-gpu.git
+25/Sept/2018 
